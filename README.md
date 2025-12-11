@@ -1,4 +1,4 @@
-# 🥖 RâS-Fr – Modèle de langue français virtuellement infini
+# 🥖 RâS-Fr – Répétiteur à Symboles - Modèle de langue français virtuellement infini
 
 **∞ paramètres – 4 bits – &lt; 6 GB VRAM – 100 % français – MIT**
 
